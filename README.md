@@ -202,6 +202,7 @@ This repo can serve as inspiration for your portfolio!
 - [Alejandro Gomez](https://alejandro-gomez.vercel.app)
 - [Alejandro Sobko](http://alejandrosobko.com)
 - [Aleksandar Pajić](https://www.aleksandarpajic.co) [Software Developer & Designer]
+- [Aleksei Aleinikov](https://www.alekseialeinikov.com/en) [Senior Platform & Cloud Engineer | SRE | Cloud Security]
 - [Aleksei Ross](https://ross.aleksei.digital/98?ref=emmabostian) [Tech Lead & Sr. Software Engineer]
 - [Alestor Aldous](http://alestor123.github.io)
 - [Alex Michailidis](https://alexandros.tech)
@@ -604,6 +605,7 @@ This repo can serve as inspiration for your portfolio!
 - [Decoopman Nicolas](https://ncsdecoopman.github.io) [Data & DevOps]
 - [Deepak Chawla](https://deepak-chawla.com)
 - [Deepak Singh](https://deepaksingh.vercel.app)
+- [Deepak Terse](https://deepak-terse.github.io) [Technical Architect & AI Engineer]
 - [Deepu Kunjumon](https://deepukunjumon.vercel.app) [Software Developer - PHP | Laravel | Slim | React.js]
 - [Delba](https://delba.dev)
 - [Delvin Khor](https://delvin.portfolio-me.bio)
@@ -1290,6 +1292,7 @@ This repo can serve as inspiration for your portfolio!
 - [Moritz Hauer](https://moritzhauer.github.io) [Software Developer & Architect]
 - [Moteeullah Azmi](https://moteeullahazmi.com) [Full Stack Developer & Freelancer]
 - [Mouad Ziani](https://mouadziani.github.io)
+- [Mouayed Belkhir](https://mouayedbelkhir.vercel.app) [Full Stack Developer | Next.js, Node.js, Strapi]
 - [Mouzan Raza](http://my-portfolio-jz1h.vercel.app) [AI/LLM Engineer]
 - [Mp3Martin](https://mp3martin.xyz)
 - [Mubashar Hussain | Mubashar Dev](https://mubashar.dev) [Senior Full Stack Engineer | Mobile App Developer | Python & AI Specialist]
@@ -1323,6 +1326,7 @@ This repo can serve as inspiration for your portfolio!
 - [Mukesh Kumar](https://mukeshdevx.vercel.app) [Full Stack Developer | MukeshDevX]
 - [Mukesh](https://themukesh.com) [Java,React, next.js, Full Stack Developer]
 - [Mukul Chugh](https://mukulchugh.com)
+- [Muneeb Rehman](https://muna-portfolio-2k26.vercel.app) [Creative Developer & AI Builder]
 - [Munyaradzi Mzite](https://munyaradzimzite.vercel.app)[AI Graphics Engineer]
 - [Mustafa Yalçın](https://mylcin.vercel.app) [Front-End Developer]
 - [Mustapha El Alamy](https://alamy.vercel.app) [Full Stack Software Engineer]
@@ -1926,6 +1930,7 @@ This repo can serve as inspiration for your portfolio!
 - [Swayam Kesarkar](https://nerd-swayam.vercel.app) [Nerd | Machine Learning | CyberSecurity]
 - [Syed Aashiq Ahamed](https://www.syedahamed.in) [Software Development Engineer | Frontend Engineer]
 - [Syed Abdul Aman](https://p-r-e-m-i-u-m.github.io/AmanGenAI/) [Generative AI Developer | LLMs | Python]
+- [Syed Faiz Imam](https://faizimam.in) [Senior Software Developer | Backend, Voice AI & Kafka]
 - [Syed Muhammad Abdullah Ahsan](https://linktr.ee/abdullahahsan)
 - [Syed Muhammad Saad Bukhari](https://saadbukhari.vercel.app) [Software Developer | Polygot Programmer]
 - [Syed Saad](https://syedsaad.dev) [Software Engineer]
@@ -2167,4 +2172,3 @@ This repo can serve as inspiration for your portfolio!
 - [Zuned Aalim](https://zunedaalim.com) [Full Stack Web Developer]
 - [Zyon Tiangson](https://zyon-portfolio.vercel.app) [.Net Developer]
 - [Zzlly Potie](http://valentinpotie.github.io/portfolio)
-
