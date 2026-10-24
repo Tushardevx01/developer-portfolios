@@ -53,7 +53,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aashir Khan](https://portfolio-n4sn.vercel.app)
 - [Aashish Jaini](https://aashishjaini.me) [Freelancer | AI & Full Stack Dev]
 - [Aashutosh Rathi](https://aashutosh.dev)
-- [Aathif Zahir](https://az-dev.vercel.app)
+- [Aathif Zahir](https://aathifzahir.vercel.app)
 - [Aaweł Szostak](https://pawelszostak.vercel.app) [Full Stack Dev | Freelancer | AI & ML Student]
 - [Aayush Bharti](https://aaabaa-aayush.vercel.app) [Developer | Freelancer | Problem Solver]
 - [Aayush Mishra](https://aayush-mishra.xyz) [Front-End Developer]
@@ -922,6 +922,7 @@ This repo can serve as inspiration for your portfolio!
 - [Jai Li](https://lijw07.github.io/portfolio) [Software Engineer]
 - [Jaimin Bariya](https://jaimin-bariya.web.app)
 - [Jainex Patel](https://jainex.vercel.app)
+- [Jaison David](https://jaisondavid.in) [Backend & Distributed Systems Engineer | Go, Kafka, Redis]
 - [Jake Ginesin](https://jakegines.in)
 - [Jake Walklate](https://svnty.is-a.dev) [Biotech Engineer]
 - [Jakub Borowy](https://jakubborowy.com)
@@ -1370,6 +1371,7 @@ This repo can serve as inspiration for your portfolio!
 - [Nguyen Chanh Dang](https://chanhdang.com)
 - [Nicholas Gannon](https://nicholasgannon.io)
 - [Nick Gray](https://nickgray.net)
+- [Nickolas Diaz](https://nickolasddiaz.github.io)
 - [Nico Bachner](https://nicobachner.com)
 - [Nico Van Zyl](https://nicovanzyl.com)
 - [Nicolas Nguyen](https://www.nic-nguyen.com)
@@ -2141,7 +2143,7 @@ This repo can serve as inspiration for your portfolio!
 - [Yog Prajapati](https://www.yogprajapati.site) [AI/ML Engineer | Full Stack]
 - [Yogesh Choudhary Paliyal](https://yogeshpaliyal.com)
 - [Yogesh Saini](https://saini-yogesh.github.io/Portfolio)
-- [Yogi Arif Widodo](https://yogiveloper.com) [Full Stack Software Engineer | Newbie Hacker]
+- [Yogi Arif Widodo](https://yogiarifwidodo.my.id) [Full Stack Software Engineer]
 - [Yohannes Getachew](https://johngech.netlify.app) [Full Stack Developer | Software Engineer]
 - [Younes Megaache](https://younes-megaache.com) [Software Developer]
 - [Yubraj Khatri](https://www.yubrajkhatri.com.np) [Full Stack/Ai Developer]
