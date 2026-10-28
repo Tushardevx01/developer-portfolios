@@ -751,6 +751,7 @@ This repo can serve as inspiration for your portfolio!
 - [Floris Melchers](https://Floriscodes.nl)
 - [Forhad_Khan](https://forhadkhandev.vercel.app) [Front-End Developer]
 - [Frances Coronel](https://francescoronel.com)
+- [Francis Luz](https://entry.fyi/francisluz) [Founder, Entry | Software Engineer]
 - [Francisco Salido](https://paco.fyi?utm_source=gh) [Software Engineer]
 - [Franck Galliod](https://www.franckwebpro.com) [Full Stack & Webflow Developer]
 - [Franco Ruiz](https://francoruiz.dev) [Staff Frontend Engineer]
@@ -786,6 +787,7 @@ This repo can serve as inspiration for your portfolio!
 - [Gaurav Saxena](https://www.gauravsaxena.site) [Full Stack Engineer | AI Engineer]
 - [Gazi Anas](https://gazimdanas.netlify.app) [AI-assisted Developer | Problem Solver]
 - [Geet Trivedi](https://www.geettrivedi.com) [Full Stack Developer | MEAN/MERN]
+- [Gene Dai](https://genedai.md) [Product builder | Co-Founder & CPO, Metix AI]
 - [Genesis Gabiola](https://genesisgabiola.now.sh)
 - [George Christeas](https://chr-ge.com)
 - [George Fincher](https://www.grimfunky.dev)
@@ -905,6 +907,7 @@ This repo can serve as inspiration for your portfolio!
 - [Israel Mitolu](https://israelmitolu.netlify.app)
 - [Issam SENSI](https://issamsensi.com) [AI Developer | Full Stack Developer]
 - [Istiuqe Ahmed](https://istiuqeahmed.vercel.app) [Front-End Developer]
+- [Ivan Markin](https://curiouseyes.tech) [Full Stack Engineer | React / Vue / Node.js / Electron]
 - [Ivin Titus](https://ivin.site) [Full Stack Engineer]
 - [Ícaro Galvão](https://icaro0310.github.io) [Senior QA Engineer]
 
@@ -998,6 +1001,7 @@ This repo can serve as inspiration for your portfolio!
 - [Joy Biswas](https://joybtw.com) [Backend Developer]
 - [Jozsef Pallagi](https://jozsefpallagi.com) [Full Stack Engineer]
 - [João Claudio Prestes](https://www.joaoprestes.dev) [Full Stack Developer | ML Engineer]
+- [João Pedro Moreira](https://nayetdet.dev) [Full Stack Developer]
 - [Juan Benito](https://juanbenito.vercel.app) [Full Stack Web Developer]
 - [Juan Cisneros](https://portfoliojuanfranciscocisneros.web.app)
 - [Juan Diaz](https://jpdiaz.dev)
@@ -1075,6 +1079,7 @@ This repo can serve as inspiration for your portfolio!
 - [Kishore](https://mkishore.is-a.dev)
 - [Kittipop Sanpho](https://www.kktp.my) [Full Stack Developer]
 - [Konan Serge](https://serge07cloud.github.io/portfolio/) [Web Developer | PERN]
+- [Korey Wang Tianru](https://korey2028.tech) [Product Manager | AI applications / Agent workflows]
 - [Kosikan Nagananthakumaran](https://kosikan.vercel.app)
 - [Koushik Goud Shaganti 💻](https://koushik1133.github.io/portfolio1) [Software Engineer Co-op | AI & Full Stack Dev]
 - [Koushik Paul](https://koushikpaul7.github.io/koushikpaul/) [Software Engineer | php & Laravel]
@@ -1476,7 +1481,7 @@ This repo can serve as inspiration for your portfolio!
 - [Paulo Oliveira](https://paul8liveira.is-a.dev)
 - [Pavan Gupta](https://www.pavangupta.in) [Project Manager | Full Stack Developer]
 - [Pavan Srivatsav Valluru](https://pavansrivatsav.com) [Full Stack Developer]
-- [Pavithran S](https://pavithran26.vercel.app) [Forward Deployed Engineer]
+- [Pavithran S](https://pavithran26.net) [Forward Deployed Engineer]
 - [Pawaret Meungkaew](https://www.pawaret.dev)
 - [Pazindu Shane](https://pazindushane.github.io)
 - [Pep Alonso](https://pepalonso.com) [Software Engineer]
@@ -1562,6 +1567,7 @@ This repo can serve as inspiration for your portfolio!
 - [Rahul Gulabaji](https://rahulgulabaji.github.io) [Software Engineer]
 - [Rahul Gurujala](https://rahulgurujala.is-a.dev) [Full Stack Developer]
 - [Rahul Khatwani](https://rahulkhatwani.vercel.app) [Full Stack Developer]
+- [Rahul Kumar](https://rahnoxa.antideploy.com) [Software Architect & Full-Stack Engineer]
 - [Rahul Kumar](https://rahulbaran.vercel.app)
 - [Rahul Kushwaha](https://raahullkushwaha.dev) [Full Stack Developer | Java | Spring Boot]
 - [Rahul Mehta](https://rahulmehta.dev)
@@ -2146,6 +2152,7 @@ This repo can serve as inspiration for your portfolio!
 - [Yogesh Saini](https://saini-yogesh.github.io/Portfolio)
 - [Yogi Arif Widodo](https://yogiarifwidodo.my.id) [Full Stack Software Engineer]
 - [Yohannes Getachew](https://johngech.netlify.app) [Full Stack Developer | Software Engineer]
+- [Yorben Vander Sleyen](https://yorben.me) [Apple Platforms Engineer | SwiftUI & Architecture]
 - [Younes Megaache](https://younes-megaache.com) [Software Developer]
 - [Yubraj Khatri](https://www.yubrajkhatri.com.np) [Full Stack/Ai Developer]
 - [Yuelin Liu](https://www.liuyuelin.dev) [Full Stack Developer]
