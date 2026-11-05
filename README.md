@@ -471,6 +471,7 @@ This repo can serve as inspiration for your portfolio!
 - [Binyam Seyoum](https://binyam.io) [DevOps & Cloud Solutions Engineer]
 - [Bipin](https://bipinmv.netlify.app)
 - [Biplob Sutradhar](https://biplobsd.github.io) [Software Engineer | Android | Web | Chrome]
+- [Biprodas Roy](https://www.biprodas.dev) [Senior Software Engineer | NestJS, Next.js, AWS | AI Engineer]
 - [Bishnu Pokhrel](https://bishnupokhrel.netlify.app) [Full Stack Laravel Vue Developer]
 - [Bishoy Nabil](https://bishonabil.github.io/Portfolio/) [Web & CMS Developer | WordPress, Shopify & React, Php, Html, CSS]
 - [Bjorn Melin](https://bjornmelin.io) [Data Scientist]
@@ -1542,6 +1543,7 @@ This repo can serve as inspiration for your portfolio!
 - [Prem Prakash Sharma](https://premprakashsharma.vercel.app)
 - [Prem Thatikonda](https://premthatikonda.xyz) [Full Stack & AI Engineer]
 - [Prince Bhayani](https://princeb.dev) [Full Stack Developer]
+- [Prince Kumar](https://prince-kumar-portfolio-five.vercel.app/) [Java Backend Developer]
 - [Pritam Debnath](https://pridebnath.github.io/portfolio-v2) [Frontend Developer]
 - [Pritu Yadav](https://prituyadav.github.io)
 - [Priya Nayak](https://priya180975.github.io/portfolio)
@@ -2111,6 +2113,7 @@ This repo can serve as inspiration for your portfolio!
 - [Vladimir Rybalsky](https://alevoldon.com) [AI Builder & Creative Technologist]
 - [Vladyslav Shtatskyi](https://www.techinz.dev) [Full Stack Developer]
 - [Vm](https://vmthedev.web.app)
+- [Vojtěch Klepáček](https://klepacek.xyz) [Full Stack Developer]
 - [Vrushali Patil](https://vrushali.in) [QA Engineer | Manual, Automation & API Testing]
 - [Vyom Dubey](https://vmoyd.github.io/portfolio-app) [Vmoy]
 
