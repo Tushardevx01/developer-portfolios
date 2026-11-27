@@ -197,6 +197,7 @@ This repo can serve as inspiration for your portfolio!
 - [Akshay Shinde](https://axay.dev) [Full Stack Developer]
 - [Akshay](https://devakshay.vercel.app)
 - [Al Amin](https://alamin-portfolio-site.vercel.app) [Full Stack Developer]
+- [Alan Babychan](https://www.alanbabychan.online) [Software Development Engineer]
 - [Alan Hamlett](https://ahamlett.com) [Founder & Ceo @Wakatime]
 - [Alan Khalili](https://www.alan-khalili.com)
 - [Alejandro Gomez](https://alejandro-gomez.vercel.app)
@@ -262,6 +263,7 @@ This repo can serve as inspiration for your portfolio!
 - [Andrew Simpson](https://andrewleesimpson.com)
 - [Andrew Smith](https://andrew.codes)
 - [Andrew Woods](https://andrewwoods.net)
+- [Andrews Mintah](https://codemintah.dev) [Software Developer | CEO of AmpedDevs]
 - [Andrey Perestoronin](https://prs2rnn.github.io) [Python Backend Developer]
 - [Andrianaivo Blaise Ismael](https://andrianaivo-ismael.vercel.app/admin)
 - [Andrii Ponomarienko](https://andriiponomarenko.vercel.app) [Frontend Developer | React, Vue, Typescript]
@@ -336,6 +338,7 @@ This repo can serve as inspiration for your portfolio!
 - [Arka Mahajan](https://arkamahajan.in) [Robotics Engineer | IOT Enthusiast]
 - [Armandeep Singh](https://ummmmarmaaan.github.io) [Full Stack Developer | React, Next.js & TypeScript]
 - [Armel Munyaneza](https://munyaneza.vercel.app)
+- [Arnav Seth](https://arnavseth12.github.io/Mywebsite/) [Student Developer | Software, Engineering & Astronomy]
 - [Arne Jacob](https://dudeldups.dev) [Full Stack Developer]
 - [Arnel Go](https://arnelbg.com) [WordPress Systems Engineer | Performance & Security]
 - [Arsh Javed](https://arshjaved.in) [Product Engineer]
@@ -371,6 +374,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ashlesh T](https://www.ashlesh.co.in) [Software Engineer I | Backend, Distributed Systems & AI (LLMs/RAG)]
 - [Ashlok Chaudhary](https://ashlok.dev) [Full Stack Developer || DevOps]
 - [Ashmit Borawake](https://ashmit-borawake.vercel.app) [Software Engineer | Full Stack Developer]
+- [Ashrit Anshuman](https://ashritanshuman.cv) [Full Stack Developer]
 - [Ashutosh Dash](https://ashutoshdash.in) [Frontend Engineer | ReactJS, Next.JS]
 - [Ashutosh Dhakre](https://thecodehead.com) [Senior Software Engineer | Full Stack Developer]
 - [Ashutosh Pandey](https://about.ashutoshcodes.in) [Backend Developer | Llm And Agentic Ai Engineer | Langchain Expert]
@@ -1181,6 +1185,7 @@ This repo can serve as inspiration for your portfolio!
 - [Maciej Pulikowski](https://pulik.dev) [Software Engineer & Security Researcher | 8 X Google Hall Of Fame]
 - [Madalina-Eleonora Gheorghe](https://madalinaeleonorag.github.io) [Frontend Developer]
 - [Madhan](https://madhank93.github.io)
+- [Madhav Kathuria](https://madhavkathuria.xyz) [Front-End Developer | React, Next.js & Tailwind CSS]
 - [Madhav Raj](https://www.madhav70.live) [CS Undergrad | Software Engineer | Full Stack & AI Developer]
 - [Madhurima Rawat](https://madhurimarawat.github.io/Portfolio-Website) [Data Scientist & Frontend Developer]
 - [Mads Hougesen](https://mhouge.dk)
@@ -1270,6 +1275,7 @@ This repo can serve as inspiration for your portfolio!
 - [Md Kawsar](https://www.kawsarlog.com) [Python Developer | Web Scraping, Automation, And Development Expert]
 - [Md Mizan] (https://www.md-mizan.vercel.app)
 - [Md Monirujjaman](https://monirujjaman.pro.bd) [Software Engineer | Full Stack Developer]
+- [Md Moniruzzaman Tonoy](https://md-moniruzzaman-tonoy.web.app) [Full Stack Developer]
 - [Md Muhaiminul Islam Shihab](https://muhaiminShihab.github.io) [Software Developer | Php, Laravel, Next.Js, Mysql.]
 - [Md Nuruzzaman](https://mdnuruzzamandev.web.app) [Frontend Developer]
 - [Md Rakib Ali](https://rakibislam22.github.io) [Full Stack Developer & Problem Solver]
@@ -1844,6 +1850,7 @@ This repo can serve as inspiration for your portfolio!
 - [Shahan Arshad](https://shahan-arshad.github.io) [Full Stack Developer]
 - [Shahariar Azim Aksad](https://aksadio.github.io/Shahariar-Azim-Aksad/) [Developer | Python, AI Automation]
 - [Shaheen Amjed](https://shaheen-amjed.vercel.app) [Full Stack Web Developer]
+- [Shahid Hussain](https://shahidhussain.dev) [Senior Mobile & Web Engineer | SwiftUI, Flutter, React, Next.js]
 - [Shahid Shaikh](http://shahidshaikh.com)
 - [Shahmeer Rizwan](https://shahmeerrizwan.com) [Software Engineer]
 - [Shahrukh Anwar](https://shahrukhanwar.vercel.app) [Senior Full Stack Developer]
